@@ -1,11 +1,12 @@
-# Aesthetic Timer⏰
+# Aesthetic Stopwatch & Timer⏰
 
-A simple and customizable timer application built with React, TailwindCSS and TS Particles. This project allows users to set, start, pause, and reset timers for various purposes such as productivity, workouts, or reminders.
+A simple Stopwatch and customizable timer application built with React, TailwindCSS and TS Particles. This project allows users to set, start, pause, and reset timers for various purposes such as productivity, workouts, or reminders.
 
 ![image](https://github.com/user-attachments/assets/bff385a3-189c-4e24-96a2-8aa0da525002)
 
 ## Features
 
+- Stopwatch with pause, reset and lap
 - Set custom countdown times
 - Start, pause, and reset timer functionality
 - Easy-to-use aesthetic interface
